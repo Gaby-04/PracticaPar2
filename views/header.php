@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" href="css/style.css">
     
-    <title>Aves-</title>
+    <title>Parcial2</title>
 </head>
 <body>
     <header>
@@ -67,9 +67,7 @@
                     <option value="4">Peces</option>
                     </select>
                 </div>
-                <div class="colalign-self-end">
-                    <button type="submit" class="btn btn-primary mb-3" name ="buscar">Buscar</button>
-                </div>
+             
             </form>
               
             
